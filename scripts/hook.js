@@ -1,7 +1,7 @@
 const hookQuery = async (query) => {
   try {
     const dataApi = await fetch(
-      "https://hook.eu2.make.com/8iewy58ohag75sggqrcmkjynvfsisf32",
+      "",
       {
         method: "POST",
         headers: { "Content-Type": "application/json" },

@@ -1,0 +1,590 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '51936821130@s.whatsapp.net',
+    fromMe: false,
+    id: '14C965DBA033A1AF0D9AE67572AB4C9D',
+    participant: undefined
+  },
+  messageTimestamp: 1721872510,
+  pushName: 'Ximena',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '51936821130'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_572ef2bd-0f37-4097-8f53-5202f5ace043',
+  keyword: 'key_f739daa3-5c7e-44d4-a297-097fb098f0a8',
+  answer: '🙌 Hola bienvenido a este el mejor Restaurante',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e48a71299632b0bd7addbfe6e925b436'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a5d2cda9-42a6-4084-bd08-c9608e3af5f0',
+  keyword: 'ans_572ef2bd-0f37-4097-8f53-5202f5ace043',
+  answer: 'Que desea realizar el dia de hoy',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '383cb106906050cb150879a047760d3f'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0704fb41-4f7c-4397-950a-9e366a61365a',
+  keyword: 'ans_a5d2cda9-42a6-4084-bd08-c9608e3af5f0',
+  answer: '👉*Saber el horario*\n👉*Realizar un pedido*\n👉*Consultar el menu del día*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '02a43f4f5503acfbd489cb5fc13a3550'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51936821130@s.whatsapp.net',
+    fromMe: false,
+    id: 'BC5A04C66DE560644DD85623262448FA',
+    participant: undefined
+  },
+  messageTimestamp: 1721872553,
+  pushName: 'Ximena',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '51936821130'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_572ef2bd-0f37-4097-8f53-5202f5ace043',
+  keyword: 'key_f739daa3-5c7e-44d4-a297-097fb098f0a8',
+  answer: '🙌 Hola bienvenido a este el mejor Restaurante',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e48a71299632b0bd7addbfe6e925b436'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a5d2cda9-42a6-4084-bd08-c9608e3af5f0',
+  keyword: 'ans_572ef2bd-0f37-4097-8f53-5202f5ace043',
+  answer: 'Que desea realizar el dia de hoy',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '383cb106906050cb150879a047760d3f'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0704fb41-4f7c-4397-950a-9e366a61365a',
+  keyword: 'ans_a5d2cda9-42a6-4084-bd08-c9608e3af5f0',
+  answer: '👉*Saber el horario*\n👉*Realizar un pedido*\n👉*Consultar el menu del día*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '02a43f4f5503acfbd489cb5fc13a3550'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51936821130@s.whatsapp.net',
+    fromMe: false,
+    id: 'BF1EDA3F6CD71D1EF9191F5CDF073AE1',
+    participant: undefined
+  },
+  messageTimestamp: 1721872562,
+  pushName: 'Ximena',
+  broadcast: false,
+  message: Message {
+    conversation: 'Quiero saber el horario',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Quiero saber el horario',
+  from: '51936821130'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4c333c74-15d0-48d5-98a9-5d6de6197e16',
+  keyword: 'key_6f2fd82c-add8-466e-96ce-ef3fc964e253',
+  answer: '👨‍🍳 La apertura de nuestro restaurante es desde las  ( 12:00 pm hasta las 5:00 pm 🕗 )',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0370fc3764b765e33aa638ef761225d8'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51936821130@s.whatsapp.net',
+    fromMe: false,
+    id: '8AF323822C80ACE2D50403126A2B3472',
+    participant: undefined
+  },
+  messageTimestamp: 1721872571,
+  pushName: 'Ximena',
+  broadcast: false,
+  message: Message {
+    conversation: 'Quiero saber el menú',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Quiero saber el menú',
+  from: '51936821130'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a714f8a0-9777-4f3b-b83f-6ed8687a4548',
+  keyword: 'key_afa1ea7b-1f17-462f-8657-ea127f3a9d97',
+  answer: '👨‍🍳 El Dia tenemos:\n' +
+    '1 - *Lomo Saltado*\n' +
+    '2 - *Ají de Gallina*\n' +
+    '3 - *Arroz con Mariscos*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '2dad0a6c1028811b4ac33427c2207daf'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51936821130@s.whatsapp.net',
+    fromMe: false,
+    id: '76536B5F9A2E53B2C5C619F3D1C9A382',
+    participant: undefined
+  },
+  messageTimestamp: 1721872581,
+  pushName: 'Ximena',
+  broadcast: false,
+  message: Message {
+    conversation: 'Quiero realizar un pedido',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Quiero realizar un pedido',
+  from: '51936821130'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_92c7eb2d-6766-4b1c-9960-1a70350cb12a',
+  keyword: 'key_49e75fa9-b554-4820-bb32-39aea47e63a3',
+  answer: 'Muy buen dia , Necesito que me brindes algunos datos',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '2da254fd586c7fb1cc5ea23f6ba12d43'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_67f0f445-db2c-4f93-8e7f-eed3190badfa',
+  keyword: 'ans_92c7eb2d-6766-4b1c-9960-1a70350cb12a',
+  answer: '*Digame su Nombre:*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 1000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e20d5dd967cf4d864c0d5f131f6c71a7'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51936821130@s.whatsapp.net',
+    fromMe: false,
+    id: 'E4F0C692B52A1593CA21C27C3A01ECB7',
+    participant: undefined
+  },
+  messageTimestamp: 1721872586,
+  pushName: 'Ximena',
+  broadcast: false,
+  message: Message {
+    conversation: 'Leonardo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Leonardo',
+  from: '51936821130'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d52ce27b-11e6-444f-94fb-1466a9e29158',
+  keyword: 'ans_67f0f445-db2c-4f93-8e7f-eed3190badfa',
+  answer: '*El Nombre del Plato :*\n' +
+    '1 - *Lomo Saltado*\n' +
+    '2 - *Ají de Gallina*\n' +
+    '3 - *Arroz con Mariscos*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 1000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'fe5ae49c1d66753cb2c6af07408fdebb'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51936821130@s.whatsapp.net',
+    fromMe: false,
+    id: 'B1CEB9A1B9909977CC10558599351AE2',
+    participant: undefined
+  },
+  messageTimestamp: 1721872598,
+  pushName: 'Ximena',
+  broadcast: false,
+  message: Message {
+    conversation: 'Arroz con mariscos',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Arroz con mariscos',
+  from: '51936821130'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6f93f42e-dedd-47e7-b368-04e10549ab0f',
+  keyword: 'ans_d52ce27b-11e6-444f-94fb-1466a9e29158',
+  answer: '*Hora de LLegada:*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 1000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'f8b98755ba1102e05bd01f7cedaf0b31'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51936821130@s.whatsapp.net',
+    fromMe: false,
+    id: '2F134F0F7D5979E79864A9F3A902089D',
+    participant: undefined
+  },
+  messageTimestamp: 1721872606,
+  pushName: 'Ximena',
+  broadcast: false,
+  message: Message {
+    conversation: '1pm',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1pm',
+  from: '51936821130'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_aa6e223e-2a6c-49bb-9fdc-6aa0038d0767',
+  keyword: 'ans_6f93f42e-dedd-47e7-b368-04e10549ab0f',
+  answer: '__capture_only_intended__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'bffc9950388ff0ca09a09b0e1252215c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51931909480@s.whatsapp.net',
+    fromMe: false,
+    id: '4FC29600DA421026EA971D742FBB41EF',
+    participant: undefined
+  },
+  messageTimestamp: 1721873871,
+  pushName: 'Giannina Chavesta 🌸',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cuando desocupes el cargador me lo traes por fa',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cuando desocupes el cargador me lo traes por fa',
+  from: '51931909480'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_572ef2bd-0f37-4097-8f53-5202f5ace043',
+  keyword: 'key_f739daa3-5c7e-44d4-a297-097fb098f0a8',
+  answer: '🙌 Hola bienvenido a este el mejor Restaurante',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e48a71299632b0bd7addbfe6e925b436'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a5d2cda9-42a6-4084-bd08-c9608e3af5f0',
+  keyword: 'ans_572ef2bd-0f37-4097-8f53-5202f5ace043',
+  answer: 'Que desea realizar el dia de hoy',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '383cb106906050cb150879a047760d3f'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0704fb41-4f7c-4397-950a-9e366a61365a',
+  keyword: 'ans_a5d2cda9-42a6-4084-bd08-c9608e3af5f0',
+  answer: '👉*Saber el horario*\n👉*Realizar un pedido*\n👉*Consultar el menu del día*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '02a43f4f5503acfbd489cb5fc13a3550'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51931909480@s.whatsapp.net',
+    fromMe: false,
+    id: '94038DB43E925194B284CBFAD5B7D273',
+    participant: undefined
+  },
+  messageTimestamp: 1721873906,
+  pushName: 'Giannina Chavesta 🌸',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '.',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '.',
+  from: '51931909480'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_572ef2bd-0f37-4097-8f53-5202f5ace043',
+  keyword: 'key_f739daa3-5c7e-44d4-a297-097fb098f0a8',
+  answer: '🙌 Hola bienvenido a este el mejor Restaurante',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e48a71299632b0bd7addbfe6e925b436'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a5d2cda9-42a6-4084-bd08-c9608e3af5f0',
+  keyword: 'ans_572ef2bd-0f37-4097-8f53-5202f5ace043',
+  answer: 'Que desea realizar el dia de hoy',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '383cb106906050cb150879a047760d3f'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0704fb41-4f7c-4397-950a-9e366a61365a',
+  keyword: 'ans_a5d2cda9-42a6-4084-bd08-c9608e3af5f0',
+  answer: '👉*Saber el horario*\n👉*Realizar un pedido*\n👉*Consultar el menu del día*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '02a43f4f5503acfbd489cb5fc13a3550'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51936821130@s.whatsapp.net',
+    fromMe: false,
+    id: 'B0EF65BEA956B4E0113F7F3B787D5168',
+    participant: undefined
+  },
+  messageTimestamp: 1721873984,
+  pushName: 'Ximena',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/v/t62.7118-24/11897900_824714816423644_6396641670127398591_n.enc?ccb=11-4&oh=01_Q5AaINQQxPk0jNIIQMwzGpg9fTUeyZz63lIgE85KB6l1vkgr&oe=66C92BA7&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'image/jpeg',
+      caption: 'Chau curso 1',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1600,
+      width: 1200,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7118-24/11897900_824714816423644_6396641670127398591_n.enc?ccb=11-4&oh=01_Q5AaINQQxPk0jNIIQMwzGpg9fTUeyZz63lIgE85KB6l1vkgr&oe=66C92BA7&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__d0b12896-b63d-49f6-870f-c9449d2c8a35',
+  from: '51936821130'
+}
